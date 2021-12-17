@@ -10,4 +10,8 @@ public class Utils {
     public static boolean equals(double x, double y) {
         return Math.abs(x - y) < EPSILON;
     }
+<<<<<<< HEAD
 }
+=======
+}}
+>>>>>>> 639225ac0b4037a129b033757ecdf85c27f8a72b
